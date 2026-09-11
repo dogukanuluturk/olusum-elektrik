@@ -39,7 +39,7 @@ export default function About() {
               <img 
                 src="/logo.png" 
                 alt="Oluşum Elektrik Logo" 
-                className="h-16 sm:h-20 w-auto object-contain scale-150 origin-left hover:opacity-90 transition"
+                className="h-16 sm:h-20 w-auto object-contain scale-75 origin-left hover:opacity-90 transition"
               />
             </Link>
           </div>
